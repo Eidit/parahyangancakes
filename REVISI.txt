@@ -1,0 +1,10 @@
+- Judul diubah penjualan furniture Rido Bandung, jangan reparasi. ( SUDAH )
+- produk lebih di deskripsikan dengan jelas. (SUDAH)
+- di halaman awal ada produk terbaru, setiap di tambahin yg muncul terbaru hanya beberapa (SUDAH)
+- produk ditanbahin (SUDAH)
+- produk ada 3 kursi, sofa, meja itu lebih di detailin lagi misal kursi kan ada kursi kantor, kursi makan, ruang tamu, kursi lipat.
+Meja misal ada meja kayu, meja kaca, 
+Sofa misal ada sofa L, sofa dudukan 3, sofa minimalis. Minta di detailin spesifikasi nya. (SUDAH)
+- terus pada saat pembayaran, minta di kasih waktu estimasi pembayaran misalnya kek udah checkout kan suka ada batas waktu pembayaran (SUDAH)
+- pembatalan barang juga minta di estimasi ada waktunya (GA PAHAM)
+- pada saat laporan pada admin harus ada ttd owner atau admin pada laporan penjualannya. (BELUM)
