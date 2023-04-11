@@ -8,3 +8,9 @@ Aplikasi berbasis website yang bertujuan untuk menjual cakes & pastry secara onl
 ![image](https://user-images.githubusercontent.com/82116158/231138480-ee2124c3-5e50-4717-9038-8144ffb887cc.png)
 - Keranjang
 ![image](https://user-images.githubusercontent.com/82116158/231138583-e208db23-e172-435d-900d-b3b93b67e04a.png)
+
+# Teknologi
+- Javascript
+- CSS
+- HTML
+- PHP
